@@ -1,0 +1,14 @@
+layout_spectrum: 0.8243431367445737
+typography_spectrum: 0.10472769103944302
+color:
+  brandStrength: 0.3476738194003701
+  lightness: 0.546118084108457
+  saturation: 0.4961085927207023
+  rhythmicContrast: 0.7205531629733741
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: digital fabrication
